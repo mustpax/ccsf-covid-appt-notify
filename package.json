@@ -3,5 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "paksoy@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
 }
