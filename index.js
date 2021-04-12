@@ -52,7 +52,7 @@ function get() {
 async function main() {
   let data = await get();
   let slots = data.appointment_slot_groups;
-  console.log({ slots });
+  console.log(slots.filter((slot) => slot.appointment_slots.length === 0));
 }
 
 main().catch(console.error);
