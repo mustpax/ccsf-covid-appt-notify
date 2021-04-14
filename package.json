@@ -5,7 +5,7 @@
   "author": "paksoy@gmail.com",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js"
+    "start": "watch -n 180 node ccsf_pup.js"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.6",
