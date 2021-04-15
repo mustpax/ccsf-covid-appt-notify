@@ -21,7 +21,7 @@ yarn start
 
 This will run the script every 3 minutes. You'll get a system notification that looks kinda like this when an appointment is found:
 
-![](notify.png)
+![](https://i.stack.imgur.com/REbdS.png)
 
 
 ## Requirements
