@@ -1,6 +1,6 @@
 # CCSF Covid Appointment Availability Notifier Script
 
-UCSF operates a great vaccination site at the CCSF campus in southern San Francisco. Once all city residents above the age of 16 became eligible to get the vaccine, I wrote a script to notify me when appointments became available.
+UCSF operates a great vaccination site at the CCSF campus in southern San Francisco. Once all city residents above the age of 16 became eligible to get the vaccine, I wrote a script to notify me when appointments became available. It worked and the first morning I started running the script I found an appointment slot!
 
 Of course, you can also be search for available vaccine appointments via https://myturn.ca.gov/ or https://www.vaccinateca.com/ . This is just the approach that worked for me.
 
